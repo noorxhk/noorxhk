@@ -1,53 +1,38 @@
 <div align="center">
-  <h1>Noor Muhammad</h1>
-  <p>
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer;AI+Automation+%26+Multi-Tenant+SaaS;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer;AI+Automation+%26+Multi-Tenant+SaaS;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS" alt="Typing headline" />
-    </a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/noor-muhammad-48a610164"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://ripeseed.io"><img src="https://img.shields.io/badge/RipeSeed-111827?style=for-the-badge" alt="RipeSeed" /></a>
-    <img src="https://komarev.com/ghpvc/?username=noorxhk&label=Profile%20views&style=for-the-badge&color=58A6FF" alt="Profile views" />
-  </p>
+
+# Noor Muhammad
+
+**Software Engineer · Lahore**
+
+I build web products, APIs, and automations — the kind that have to work for real users, not just in a demo.
+
+Currently at [RipeSeed](https://ripeseed.io).
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-noor--muhammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-muhammad-48a610164/)
+[![Email](https://img.shields.io/badge/Email-18noormuhammad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:18noormuhammad@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B92%20320%204524623-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923204524623)
+
 </div>
 
 ---
 
-### About me
+I spend most days in **TypeScript**, **React**, and **Node.js**, with **MongoDB** and **AWS** underneath. A lot of that is backend work: third-party APIs, webhooks, email-driven workflows, and AI features that have to survive production.
 
-I'm a **Senior Software Engineer-II** at [RipeSeed](https://ripeseed.io) in Lahore. I build production web apps, AI-powered workflows, and multi-tenant SaaS — mostly in **React**, **Node.js**, **TypeScript**, and **AWS**.
+If you want to work together, just reach out.
 
-A lot of my work sits in the unglamorous middle of real products: automations, email-driven workflows, Google APIs, webhooks, and the backend decisions that keep those systems reliable.
+### Skills
 
-- 🔭 Currently shipping AI automation and multi-tenant SaaS at RipeSeed
-- 🧠 Interested in clean backend design, LLM-powered product features, and integrations that don't fall over
-- 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/noor-muhammad-48a610164)
-
----
-
-### What I work on
-
-- **AI & automation** — LLM-backed features and workflow automation that remove repetitive ops work
-- **SaaS backends** — multi-tenant Node.js services, MongoDB, and third-party APIs
-- **Full-stack TypeScript** — React + Node.js apps from MVP through production
-
----
-
-### Tech stack
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,aws,docker,git,linux,html,css,tailwind,figma,vscode,github" alt="JavaScript, TypeScript, React, Node.js, Express, MongoDB, AWS, Docker, Git, Linux, HTML, CSS, Tailwind, Figma, VS Code, GitHub" />
 </p>
 
----
+### Contact
 
-### Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/noor-muhammad-48a610164"><img src="https://img.shields.io/badge/LinkedIn-Noor%20Muhammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/noorxhk"><img src="https://img.shields.io/badge/GitHub-noorxhk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+- **Email:** [18noormuhammad@gmail.com](mailto:18noormuhammad@gmail.com) · [irfanusman220@gmail.com](mailto:irfanusman220@gmail.com)
+- **Phone / WhatsApp:** [+92 320 4524623](https://wa.me/923204524623)
+- **LinkedIn:** [linkedin.com/in/noor-muhammad-48a610164](https://www.linkedin.com/in/noor-muhammad-48a610164/)
 
 ---
 
