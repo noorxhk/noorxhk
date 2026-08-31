@@ -89,8 +89,6 @@ If AI is going to be useful, it has to survive messy data, third-party APIs, ret
 
 ### GitHub
 
-<p align="center">Most of the commits live in private RipeSeed repos. What's below is the public trail.</p>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=noorxhk&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&stroke=1E3A8A" alt="GitHub streak" />
   <br />
