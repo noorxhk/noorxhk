@@ -90,14 +90,14 @@ If AI is going to be useful, it has to survive messy data, third-party APIs, ret
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorxhk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats" height="170" />
+  <img src="https://gh-stats.work/api?username=noorxhk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats" height="170" />
   <img src="https://streak-stats.demolab.com?user=noorxhk&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak" height="170" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorxhk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" height="170" />
+  <img src="https://gh-stats.work/api/top-langs/?username=noorxhk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" height="170" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorxhk&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Contribution graph" />
+  <img src="https://jeskei-readme-activity-graph.vercel.app/graph?username=noorxhk&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Contribution graph" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=noorxhk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=noorxhk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
 </div>
 
 <p align="center">
