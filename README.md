@@ -89,15 +89,14 @@ If AI is going to be useful, it has to survive messy data, third-party APIs, ret
 
 ### GitHub
 
+<p align="center">Most of the commits live in private RipeSeed repos. What's below is the public trail.</p>
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats-git-master-denvercoder1.vercel.app/api?username=noorxhk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats-git-master-denvercoder1.vercel.app/api/top-langs/?username=noorxhk&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=noorxhk&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&stroke=1E3A8A" alt="GitHub streak" />
   <br />
   <img width="100%" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=noorxhk&theme=tokyo-night&hide_border=true&area=true&color=22D3EE&line=38BDF8&point=22D3EE&area_color=1E3A8A&title_color=22D3EE&custom_title=Last%2031%20days" alt="Contribution graph" />
   <br />
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=noorxhk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=3&title=Commits,Experience,Repositories" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=noorxhk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=18&row=1&column=2&title=Commits,Experience" alt="GitHub trophies" />
 </div>
 
 <p align="center">
