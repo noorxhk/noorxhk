@@ -93,8 +93,6 @@ If AI is going to be useful, it has to survive messy data, third-party APIs, ret
   <img src="https://streak-stats.demolab.com?user=noorxhk&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&stroke=1E3A8A" alt="GitHub streak" />
   <br />
   <img width="100%" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=noorxhk&theme=tokyo-night&hide_border=true&area=true&color=22D3EE&line=38BDF8&point=22D3EE&area_color=1E3A8A&title_color=22D3EE&custom_title=Last%2031%20days" alt="Contribution graph" />
-  <br />
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=noorxhk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=18&row=1&column=2&title=Commits,Experience" alt="GitHub trophies" />
 </div>
 
 <p align="center">
